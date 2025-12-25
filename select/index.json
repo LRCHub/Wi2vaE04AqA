@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星想圏",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2025-12-25T03:30:59.828895Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星想圏 (feat. nayuta)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_星想圏_(feat._nayuta)_Vivid_Lila.txt"
+    }
+  ]
+}
